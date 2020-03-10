@@ -1,14 +1,12 @@
 ---
 templateKey: index-page
 title: N.P. ENGINEERING SERVICES
-image: /img/home-jumbotron.jpg
+image: /img/hero.png
 heading: N.P. ENGINEERING SERVICES
 subheading: HANDLING EQUIPMENT ENGINEERS
 mainpitch:
   title: ' '
-  description: >-
-    Material handling engineers, carrying out repairs and servicing on-site or
-    at our workshop in Kirkcaldy.
+  description: Repairs and servicing on-site or at our Kirkcaldy workshop.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: N.P. ENGINEERING SERVICES
-image: /img/home-jumbotron.jpg
+image: /img/hero.png
 heading: N.P. ENGINEERING SERVICES
 subheading: HANDLING EQUIPMENT ENGINEERS
 mainpitch:

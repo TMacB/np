@@ -77,17 +77,17 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <a
+              {/* <a
                 className="navbar-item"
                 href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
                 target="_blank"
                 rel="noopener noreferrer"
-              >
-                <span className="icon">
+              > */}
+                <span className="navbar-item has-text-weight-bold">
                   {/* <img src={github} alt="Github" /> */}
                   01592 655377
                 </span>
-              </a>
+              {/* </a> */}
             </div>
           </div>
         </div>

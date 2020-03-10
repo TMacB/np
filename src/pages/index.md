@@ -5,12 +5,10 @@ image: /img/home-jumbotron.jpg
 heading: N.P. ENGINEERING SERVICES
 subheading: HANDLING EQUIPMENT ENGINEERS
 mainpitch:
-  title: Why us?
+  title: ' '
   description: >-
-    We are the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Material handling engineers, carrying out repairs and servicing on-site or
+    at our workshop in Kirkcaldy.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,

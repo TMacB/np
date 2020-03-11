@@ -10,19 +10,37 @@ import vimeo from '../img/social/vimeo.svg'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
+      <footer className="footer has-background-grey-light has-text-white-ter">
+        {/* <div className="content has-text-centered">
           <img
             src={logo}
             alt="Kaldi"
             style={{ width: '14em', height: '10em' }}
           />
-        </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
+        </div> */}
+        <div className="content has-text-centered has-background-grey-light has-text-white-ter">
+          <div className="container has-background-grey-light has-text-white-ter">
             <div className="columns">
-              <div className="column is-4">
-                <section className="menu">
+              <div className="column is-6">
+                <table>
+                  <tbody>
+                    <tr>
+                      <td style={{ vAlign: 'middle', borderRight: '2px solid #cc0000'}}>
+                        <a href="http://www.npengineering.co.uk"><img src={logo} width="110" /></a>
+                      </td>
+                      <td>&nbsp;</td>
+                      <td style={{ textDecoration: 'none' }}>
+                        <h5 className="title is-4 has-text-weight-bold">NP Engineering</h5>
+                        <p className="subtitle is-5"><i>1 Midfield Road, Kirkcaldy, Fife.</i></p>
+                        <a className="is-size-5" href="http://www.npengineering.co.uk">www.npengineering.co.uk</a><br/>
+                        <a className="is-size-5" href="mailto:info@npengineering.co.uk">info@npengineering.co.uk</a><br/>
+                        <a className="is-size-5" href="tel:01592 655377">01592 655377</a><br/>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+                <br/>
+                {/* <section className="menu">
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
@@ -55,9 +73,9 @@ const Footer = class extends React.Component {
                       </a>
                     </li>
                   </ul>
-                </section>
+                </section> */}
               </div>
-              <div className="column is-4">
+              {/* <div className="column is-4">
                 <section>
                   <ul className="menu-list">
                     <li>
@@ -72,8 +90,8 @@ const Footer = class extends React.Component {
                     </li>
                   </ul>
                 </section>
-              </div>
-              <div className="column is-4 social">
+              </div> */}
+              <div className="column is-6 social">
                 <a title="facebook" href="https://facebook.com">
                   <img
                     src={facebook}

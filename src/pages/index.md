@@ -2,7 +2,7 @@
 templateKey: index-page
 title: N.P. ENGINEERING SERVICES
 image: /img/hero.png
-heading: N.P. ENGINEERING SERVICES
+heading: 'N.P. ENGINEERING SERVICES '
 subheading: HANDLING EQUIPMENT ENGINEERS
 mainpitch:
   title: ' '
